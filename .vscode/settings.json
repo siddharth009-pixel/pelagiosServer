@@ -1,0 +1,7 @@
+{
+    "editor.autoClosingQuotes": "always",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "vsintellicode.python.completionsEnabled": false,
+    "vsintellicode.sql.completionsEnabled": false,
+    "vsintellicode.java.completionsEnabled": false
+}
