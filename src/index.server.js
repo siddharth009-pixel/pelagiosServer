@@ -17,7 +17,7 @@ const reviewRoutes=require('./routes/review')
 // const { requiredSignIn } = require('./common-middleware')
 const path=require('path')
 const cors=require('cors')
-
+console.log('develop');
 _env.config();
 
 mongoose
